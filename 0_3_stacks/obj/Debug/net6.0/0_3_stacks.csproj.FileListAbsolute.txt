@@ -1,0 +1,15 @@
+/home/veta/dotnet/CsharpTutorial/0_3_stacks/bin/Debug/net6.0/0_3_stacks
+/home/veta/dotnet/CsharpTutorial/0_3_stacks/bin/Debug/net6.0/0_3_stacks.deps.json
+/home/veta/dotnet/CsharpTutorial/0_3_stacks/bin/Debug/net6.0/0_3_stacks.runtimeconfig.json
+/home/veta/dotnet/CsharpTutorial/0_3_stacks/bin/Debug/net6.0/0_3_stacks.dll
+/home/veta/dotnet/CsharpTutorial/0_3_stacks/bin/Debug/net6.0/ref/0_3_stacks.dll
+/home/veta/dotnet/CsharpTutorial/0_3_stacks/bin/Debug/net6.0/0_3_stacks.pdb
+/home/veta/dotnet/CsharpTutorial/0_3_stacks/obj/Debug/net6.0/0_3_stacks.csproj.AssemblyReference.cache
+/home/veta/dotnet/CsharpTutorial/0_3_stacks/obj/Debug/net6.0/0_3_stacks.GeneratedMSBuildEditorConfig.editorconfig
+/home/veta/dotnet/CsharpTutorial/0_3_stacks/obj/Debug/net6.0/0_3_stacks.AssemblyInfoInputs.cache
+/home/veta/dotnet/CsharpTutorial/0_3_stacks/obj/Debug/net6.0/0_3_stacks.AssemblyInfo.cs
+/home/veta/dotnet/CsharpTutorial/0_3_stacks/obj/Debug/net6.0/0_3_stacks.csproj.CoreCompileInputs.cache
+/home/veta/dotnet/CsharpTutorial/0_3_stacks/obj/Debug/net6.0/0_3_stacks.dll
+/home/veta/dotnet/CsharpTutorial/0_3_stacks/obj/Debug/net6.0/ref/0_3_stacks.dll
+/home/veta/dotnet/CsharpTutorial/0_3_stacks/obj/Debug/net6.0/0_3_stacks.pdb
+/home/veta/dotnet/CsharpTutorial/0_3_stacks/obj/Debug/net6.0/0_3_stacks.genruntimeconfig.cache

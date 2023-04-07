@@ -1,0 +1,15 @@
+/Users/ahmadhfr/Documents/work/project/Reflections/MethodInfo/bin/Debug/net7.0/MethodInfo
+/Users/ahmadhfr/Documents/work/project/Reflections/MethodInfo/bin/Debug/net7.0/MethodInfo.deps.json
+/Users/ahmadhfr/Documents/work/project/Reflections/MethodInfo/bin/Debug/net7.0/MethodInfo.runtimeconfig.json
+/Users/ahmadhfr/Documents/work/project/Reflections/MethodInfo/bin/Debug/net7.0/MethodInfo.dll
+/Users/ahmadhfr/Documents/work/project/Reflections/MethodInfo/bin/Debug/net7.0/MethodInfo.pdb
+/Users/ahmadhfr/Documents/work/project/Reflections/MethodInfo/obj/Debug/net7.0/MethodInfo.csproj.AssemblyReference.cache
+/Users/ahmadhfr/Documents/work/project/Reflections/MethodInfo/obj/Debug/net7.0/MethodInfo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmadhfr/Documents/work/project/Reflections/MethodInfo/obj/Debug/net7.0/MethodInfo.AssemblyInfoInputs.cache
+/Users/ahmadhfr/Documents/work/project/Reflections/MethodInfo/obj/Debug/net7.0/MethodInfo.AssemblyInfo.cs
+/Users/ahmadhfr/Documents/work/project/Reflections/MethodInfo/obj/Debug/net7.0/MethodInfo.csproj.CoreCompileInputs.cache
+/Users/ahmadhfr/Documents/work/project/Reflections/MethodInfo/obj/Debug/net7.0/MethodInfo.dll
+/Users/ahmadhfr/Documents/work/project/Reflections/MethodInfo/obj/Debug/net7.0/refint/MethodInfo.dll
+/Users/ahmadhfr/Documents/work/project/Reflections/MethodInfo/obj/Debug/net7.0/MethodInfo.pdb
+/Users/ahmadhfr/Documents/work/project/Reflections/MethodInfo/obj/Debug/net7.0/MethodInfo.genruntimeconfig.cache
+/Users/ahmadhfr/Documents/work/project/Reflections/MethodInfo/obj/Debug/net7.0/ref/MethodInfo.dll

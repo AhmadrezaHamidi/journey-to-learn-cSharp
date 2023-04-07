@@ -1,0 +1,15 @@
+/Users/ahmadhfr/Documents/work/project/Reflections/SetValue/bin/Debug/net7.0/SetValue
+/Users/ahmadhfr/Documents/work/project/Reflections/SetValue/bin/Debug/net7.0/SetValue.deps.json
+/Users/ahmadhfr/Documents/work/project/Reflections/SetValue/bin/Debug/net7.0/SetValue.runtimeconfig.json
+/Users/ahmadhfr/Documents/work/project/Reflections/SetValue/bin/Debug/net7.0/SetValue.dll
+/Users/ahmadhfr/Documents/work/project/Reflections/SetValue/bin/Debug/net7.0/SetValue.pdb
+/Users/ahmadhfr/Documents/work/project/Reflections/SetValue/obj/Debug/net7.0/SetValue.csproj.AssemblyReference.cache
+/Users/ahmadhfr/Documents/work/project/Reflections/SetValue/obj/Debug/net7.0/SetValue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmadhfr/Documents/work/project/Reflections/SetValue/obj/Debug/net7.0/SetValue.AssemblyInfoInputs.cache
+/Users/ahmadhfr/Documents/work/project/Reflections/SetValue/obj/Debug/net7.0/SetValue.AssemblyInfo.cs
+/Users/ahmadhfr/Documents/work/project/Reflections/SetValue/obj/Debug/net7.0/SetValue.csproj.CoreCompileInputs.cache
+/Users/ahmadhfr/Documents/work/project/Reflections/SetValue/obj/Debug/net7.0/SetValue.dll
+/Users/ahmadhfr/Documents/work/project/Reflections/SetValue/obj/Debug/net7.0/refint/SetValue.dll
+/Users/ahmadhfr/Documents/work/project/Reflections/SetValue/obj/Debug/net7.0/SetValue.pdb
+/Users/ahmadhfr/Documents/work/project/Reflections/SetValue/obj/Debug/net7.0/SetValue.genruntimeconfig.cache
+/Users/ahmadhfr/Documents/work/project/Reflections/SetValue/obj/Debug/net7.0/ref/SetValue.dll

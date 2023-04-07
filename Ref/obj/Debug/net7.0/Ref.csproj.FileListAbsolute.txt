@@ -1,0 +1,15 @@
+/Users/ahmadhfr/Documents/work/project/Reflections/Ref/bin/Debug/net7.0/Ref
+/Users/ahmadhfr/Documents/work/project/Reflections/Ref/bin/Debug/net7.0/Ref.deps.json
+/Users/ahmadhfr/Documents/work/project/Reflections/Ref/bin/Debug/net7.0/Ref.runtimeconfig.json
+/Users/ahmadhfr/Documents/work/project/Reflections/Ref/bin/Debug/net7.0/Ref.dll
+/Users/ahmadhfr/Documents/work/project/Reflections/Ref/bin/Debug/net7.0/Ref.pdb
+/Users/ahmadhfr/Documents/work/project/Reflections/Ref/obj/Debug/net7.0/Ref.csproj.AssemblyReference.cache
+/Users/ahmadhfr/Documents/work/project/Reflections/Ref/obj/Debug/net7.0/Ref.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmadhfr/Documents/work/project/Reflections/Ref/obj/Debug/net7.0/Ref.AssemblyInfoInputs.cache
+/Users/ahmadhfr/Documents/work/project/Reflections/Ref/obj/Debug/net7.0/Ref.AssemblyInfo.cs
+/Users/ahmadhfr/Documents/work/project/Reflections/Ref/obj/Debug/net7.0/Ref.csproj.CoreCompileInputs.cache
+/Users/ahmadhfr/Documents/work/project/Reflections/Ref/obj/Debug/net7.0/Ref.dll
+/Users/ahmadhfr/Documents/work/project/Reflections/Ref/obj/Debug/net7.0/refint/Ref.dll
+/Users/ahmadhfr/Documents/work/project/Reflections/Ref/obj/Debug/net7.0/Ref.pdb
+/Users/ahmadhfr/Documents/work/project/Reflections/Ref/obj/Debug/net7.0/Ref.genruntimeconfig.cache
+/Users/ahmadhfr/Documents/work/project/Reflections/Ref/obj/Debug/net7.0/ref/Ref.dll

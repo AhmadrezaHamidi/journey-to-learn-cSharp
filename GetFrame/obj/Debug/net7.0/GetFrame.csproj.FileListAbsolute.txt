@@ -1,0 +1,15 @@
+/Users/ahmadhfr/Documents/work/project/Reflections/GetFrame/bin/Debug/net7.0/GetFrame
+/Users/ahmadhfr/Documents/work/project/Reflections/GetFrame/bin/Debug/net7.0/GetFrame.deps.json
+/Users/ahmadhfr/Documents/work/project/Reflections/GetFrame/bin/Debug/net7.0/GetFrame.runtimeconfig.json
+/Users/ahmadhfr/Documents/work/project/Reflections/GetFrame/bin/Debug/net7.0/GetFrame.dll
+/Users/ahmadhfr/Documents/work/project/Reflections/GetFrame/bin/Debug/net7.0/GetFrame.pdb
+/Users/ahmadhfr/Documents/work/project/Reflections/GetFrame/obj/Debug/net7.0/GetFrame.csproj.AssemblyReference.cache
+/Users/ahmadhfr/Documents/work/project/Reflections/GetFrame/obj/Debug/net7.0/GetFrame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmadhfr/Documents/work/project/Reflections/GetFrame/obj/Debug/net7.0/GetFrame.AssemblyInfoInputs.cache
+/Users/ahmadhfr/Documents/work/project/Reflections/GetFrame/obj/Debug/net7.0/GetFrame.AssemblyInfo.cs
+/Users/ahmadhfr/Documents/work/project/Reflections/GetFrame/obj/Debug/net7.0/GetFrame.csproj.CoreCompileInputs.cache
+/Users/ahmadhfr/Documents/work/project/Reflections/GetFrame/obj/Debug/net7.0/GetFrame.dll
+/Users/ahmadhfr/Documents/work/project/Reflections/GetFrame/obj/Debug/net7.0/refint/GetFrame.dll
+/Users/ahmadhfr/Documents/work/project/Reflections/GetFrame/obj/Debug/net7.0/GetFrame.pdb
+/Users/ahmadhfr/Documents/work/project/Reflections/GetFrame/obj/Debug/net7.0/GetFrame.genruntimeconfig.cache
+/Users/ahmadhfr/Documents/work/project/Reflections/GetFrame/obj/Debug/net7.0/ref/GetFrame.dll

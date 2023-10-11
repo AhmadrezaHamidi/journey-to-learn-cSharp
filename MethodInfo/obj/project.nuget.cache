@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "ZZFCFYETGdI47ahYv9AQTmz37y6uw5ePsbg+xeJv67RzvWJn1EWJrPeClQxNnC+RiMJRpOGtRWZGJPJvJbBIRw==",
+  "dgSpecHash": "MtEjTj52SNpuGN4xqnA3VCL4jSdwXSyaI1AdyMriK3tAiCPxmqLoo790IVU5f+xz3/1DAjz/TmWdys/RlWgFAQ==",
   "success": true,
-  "projectFilePath": "/Users/ahmadhfr/Documents/work/project/Reflections/MethodInfo/MethodInfo.csproj",
+  "projectFilePath": "F:\\journey-to-learn-cSharp\\MethodInfo\\MethodInfo.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://192.168.2.164/NugetServer/Nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
 }

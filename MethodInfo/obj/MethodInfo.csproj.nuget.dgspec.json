@@ -1,25 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ahmadhfr/Documents/work/project/Reflections/MethodInfo/MethodInfo.csproj": {}
+    "F:\\journey-to-learn-cSharp\\MethodInfo\\MethodInfo.csproj": {}
   },
   "projects": {
-    "/Users/ahmadhfr/Documents/work/project/Reflections/MethodInfo/MethodInfo.csproj": {
+    "F:\\journey-to-learn-cSharp\\MethodInfo\\MethodInfo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ahmadhfr/Documents/work/project/Reflections/MethodInfo/MethodInfo.csproj",
+        "projectUniqueName": "F:\\journey-to-learn-cSharp\\MethodInfo\\MethodInfo.csproj",
         "projectName": "MethodInfo",
-        "projectPath": "/Users/ahmadhfr/Documents/work/project/Reflections/MethodInfo/MethodInfo.csproj",
-        "packagesPath": "/Users/ahmadhfr/.nuget/packages/",
-        "outputPath": "/Users/ahmadhfr/Documents/work/project/Reflections/MethodInfo/obj/",
+        "projectPath": "F:\\journey-to-learn-cSharp\\MethodInfo\\MethodInfo.csproj",
+        "packagesPath": "C:\\Users\\a.hamidi\\.nuget\\packages\\",
+        "outputPath": "F:\\journey-to-learn-cSharp\\MethodInfo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/ahmadhfr/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\a.hamidi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://192.168.2.164/NugetServer/Nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/7.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

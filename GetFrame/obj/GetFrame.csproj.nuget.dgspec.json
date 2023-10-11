@@ -1,25 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ahmadhfr/Documents/work/project/Reflections/GetFrame/GetFrame.csproj": {}
+    "F:\\journey-to-learn-cSharp\\GetFrame\\GetFrame.csproj": {}
   },
   "projects": {
-    "/Users/ahmadhfr/Documents/work/project/Reflections/GetFrame/GetFrame.csproj": {
+    "F:\\journey-to-learn-cSharp\\GetFrame\\GetFrame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ahmadhfr/Documents/work/project/Reflections/GetFrame/GetFrame.csproj",
+        "projectUniqueName": "F:\\journey-to-learn-cSharp\\GetFrame\\GetFrame.csproj",
         "projectName": "GetFrame",
-        "projectPath": "/Users/ahmadhfr/Documents/work/project/Reflections/GetFrame/GetFrame.csproj",
-        "packagesPath": "/Users/ahmadhfr/.nuget/packages/",
-        "outputPath": "/Users/ahmadhfr/Documents/work/project/Reflections/GetFrame/obj/",
+        "projectPath": "F:\\journey-to-learn-cSharp\\GetFrame\\GetFrame.csproj",
+        "packagesPath": "C:\\Users\\a.hamidi\\.nuget\\packages\\",
+        "outputPath": "F:\\journey-to-learn-cSharp\\GetFrame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/ahmadhfr/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\a.hamidi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://192.168.2.164/NugetServer/Nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/7.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

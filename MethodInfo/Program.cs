@@ -4,8 +4,6 @@ using MethodInfo;
 
 Console.WriteLine("Hello, World!");
 
-
-
 Calculator calculator = new Calculator();
 Type calculatorType = calculator.GetType();
 string methodName = "Add";

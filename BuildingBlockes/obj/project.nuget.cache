@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "BPnRuazXtOiPDvzWmZzQXTgK4Xh/4+1Ob5GkJnftLTYmVI3fsGSXydZ7yVuJWi2GZCv5X/MExamg9ntSy2wD7Q==",
+  "success": true,
+  "projectFilePath": "F:\\journey-to-learn-cSharp\\BuildingBlockes\\BuildingBlockes.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://192.168.2.164/NugetServer/Nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

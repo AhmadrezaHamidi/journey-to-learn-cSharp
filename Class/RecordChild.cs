@@ -8,6 +8,7 @@ namespace Class
 {
     internal record RecordChild
     {
+
     }
     internal record struct RecordChildStruct
     {
